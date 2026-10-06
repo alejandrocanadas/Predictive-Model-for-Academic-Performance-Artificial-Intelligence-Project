@@ -98,5 +98,6 @@ Orden recomendado para reproducir el flujo completo:
 
 - El desempeño académico previo (`G2`) es, por lejos, la variable más predictiva de la nota final.
 - De los modelos evaluados, **Random Forest** ofrece el mejor balance entre error y capacidad de generalización, aunque el poder predictivo global sigue siendo limitado (R² ≈ 0.30).
-- Los modelos lineales (Ridge, Lasso) y basados en distancia (KNN) no son adecuados para este problema con las variables disponibles, sugiriendo como trabajo futuro el uso de modelos no lineales más complejos (redes neuronales).
+- Los modelos lineales (Ridge, Lasso) y basados en distancia (KNN) no son adecuados para este problema con las variables disponibles. Por eso se sugiere como trabajo futuro el uso de modelos no lineales más complejos (redes neuronales).
+
 
